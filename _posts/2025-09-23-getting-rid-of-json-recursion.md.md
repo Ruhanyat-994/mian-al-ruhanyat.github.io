@@ -16,7 +16,7 @@ During a project, I was referencing **`UrlEntity`** and **`ClickHistory`** entit
 ## How Jackson Works?
 
 You write your POJO obviously for a reason — to convert it to a JSON object!
-This conversion is called **serialization**, and when you convert JSON back into a Java object, that’s **deserialization**.
+This conversion is called **serialization**, and when you convert JSON back into a Java object, that’s **deserialization** .
 
 Here comes **Jackson** — a Java library that handles serialization and deserialization.
 
