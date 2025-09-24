@@ -225,3 +225,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+
+favicon: E:\Portfolio\ruhanyat-994.github.io\assets\icons\policy_9428973.png
