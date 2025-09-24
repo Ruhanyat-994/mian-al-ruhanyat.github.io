@@ -226,13 +226,3 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-
-favicon: /assets/icons/policy_9428973.png
-
-pwa:
-  enabled: true
-  cache:
-    enabled: true
-  icon:
-    src: /assets/icons/policy_9428973.png
-    sizes: "192x192"
