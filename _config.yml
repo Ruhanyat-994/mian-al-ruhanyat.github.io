@@ -16,7 +16,7 @@ timezone: Asia/Dhaka
 
 title: Mian Al Ruhanyat # the main title
 
-tagline: SecureCoding | Springboot@Java | Security Testing # it will display as the subtitle
+tagline: SecureCoding | Springboot@Java # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A documentation vault for learning secure coding!
