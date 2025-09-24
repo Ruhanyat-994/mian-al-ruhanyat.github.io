@@ -235,3 +235,4 @@ pwa:
     enabled: true
   icon:
     src: /assets/icons/policy_9428973.png
+    sizes: "192x192"
