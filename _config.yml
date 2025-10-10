@@ -193,6 +193,9 @@ defaults:
     values:
       layout: page
       permalink: /:title/
+  - scope: assets/img/favicons
+    values:
+      swcache: true
 
 sass:
   style: compressed
